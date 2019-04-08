@@ -1,6 +1,6 @@
 import { NgPackagedPage } from './app.po';
 
-describe('ng-packaged App', () => {
+describe('ngx-jsnlog App', () => {
   let page: NgPackagedPage;
 
   beforeEach(() => {

@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { Observable } from 'rxjs';
-import { BarService } from '@my/lib';
+import { BarService } from 'ngx-jsnlog';
 
 @Component({
   selector: 'app-root',

@@ -1,5 +1,5 @@
 import { TestBed, async } from '@angular/core/testing';
-import { MyLibModule } from '@my/lib';
+import { MyLibModule } from 'ngx-jsnlog';
 import { AppComponent } from './app.component';
 
 describe('AppComponent', () => {
